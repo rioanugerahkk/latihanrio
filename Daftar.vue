@@ -3,9 +3,8 @@
  <div class="content">
     <div class="wrapper">
        <div class="title">Buat Akun Anda</div>
-            <form action="#">
-    
-        <div class="field 1">
+            <form action="#">    
+        <div class="field">
           <input type="text1" required>
           <label>Nama Depan</label>
         </div>
